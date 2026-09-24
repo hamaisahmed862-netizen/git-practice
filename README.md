@@ -6,4 +6,5 @@ I am learning git and github now.
 
 This change was made on the feature-test branch.
 
-Profile feature is production ready.
+Profile feature is ready for production.
+
